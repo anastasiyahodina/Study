@@ -1,3 +1,5 @@
 hello, students! 
 
 "new edits in the file"
+
+bug was fixed
